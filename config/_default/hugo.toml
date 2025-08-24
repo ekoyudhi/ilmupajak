@@ -41,7 +41,7 @@ copyRight = "Copyright (c) 2020-2024 Thulite"
 
 [sitemap]
   changefreq = "monthly"
-  filename = "sitemap.xml"
+  #filename = "sitemap.xml"
   priority = 0.5
 
 [caches]
