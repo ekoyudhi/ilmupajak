@@ -1,7 +1,7 @@
 ---
 title: "Mengenal Sistem Coretax DJP"
 description: "Coretax adalah sistem informasi terpadu yang dikembangkan Direktorat Jenderal Pajak (DJP) sebagai bagian dari reformasi pajak nasional. Melalui sistem ini, wajib pajak dapat mengakses berbagai layanan seperti pendaftaran, pelaporan, pembayaran, dan pemantauan kewajiban perpajakan, yang semuanya dalam satu akun digital."
-summary: "Mengenal Sistem Coretax DJP"
+summary: "Coretax adalah sistem informasi terpadu yang dikembangkan Direktorat Jenderal Pajak (DJP) sebagai bagian dari reformasi pajak nasional. Melalui sistem ini, wajib pajak dapat mengakses berbagai layanan seperti pendaftaran, pelaporan, pembayaran, dan pemantauan kewajiban perpajakan, yang semuanya dalam satu akun digital."
 date: 2025-08-28T10:30:26+07:00
 lastmod: 2025-08-28T10:30:26+07:00
 draft: false
