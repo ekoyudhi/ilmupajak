@@ -37,6 +37,7 @@
   target = "layouts"
 
 [[mounts]]
+  excludeFiles = ["sitemap.xml","sitemapindex.xml"]
   source = "node_modules/@thulite/seo/layouts"
   target = "layouts"
 

@@ -31,18 +31,18 @@ copyRight = "Copyright (c) 2020-2024 Thulite"
   notAlternative = true
 
 # Add output format for section sitemap.xml
-[outputFormats.SITEMAP]
-  mediaType = "application/xml"
-  baseName = "sitemap"
-  isHTML = false
-  isPlainText = true
-  noUgly = true
-  rel  = "sitemap"
+# [outputFormats.SITEMAP]
+#   mediaType = "application/xml"
+#   baseName = "sitemap"
+#   isHTML = false
+#   isPlainText = true
+#   noUgly = true
+#   rel  = "sitemap"
 
-[sitemap]
-  changefreq = "monthly"
-#  filename = "sitemap.xml"
-  priority = 0.5
+# [sitemap]
+#   changefreq = "monthly"
+# #  filename = "sitemap.xml"
+#   priority = 0.5
 
 [caches]
   [caches.getjson]
