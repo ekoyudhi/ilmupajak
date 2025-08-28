@@ -1,5 +1,5 @@
 title = "Ilmu Pajak"
-baseurl = "https://ilmupajak.netlify.app/"
+baseurl = "https://ilmupajak.my.id/"
 disableAliases = true
 disableHugoGeneratorInject = true
 # disableKinds = ["taxonomy", "term"]
