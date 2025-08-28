@@ -1,6 +1,6 @@
 ---
 title: "Mengenal Sistem Coretax DJP"
-description: "mengenal sistem coretax direktorat jenderal pajak"
+description: "Coretax adalah sistem informasi terpadu yang dikembangkan Direktorat Jenderal Pajak (DJP) sebagai bagian dari reformasi pajak nasional. Melalui sistem ini, wajib pajak dapat mengakses berbagai layanan seperti pendaftaran, pelaporan, pembayaran, dan pemantauan kewajiban perpajakan, yang semuanya dalam satu akun digital."
 summary: "Mengenal Sistem Coretax DJP"
 date: 2025-08-28T10:30:26+07:00
 lastmod: 2025-08-28T10:30:26+07:00
@@ -13,7 +13,7 @@ pinned: false
 homepage: false
 seo:
   title: "Mengenal Sistem Coretax DJP" # custom title (optional)
-  description: "Mengenal Sistem Coretax DJP" # custom description (recommended)
+  description: "Coretax adalah sistem informasi terpadu yang dikembangkan Direktorat Jenderal Pajak (DJP) sebagai bagian dari reformasi pajak nasional. Melalui sistem ini, wajib pajak dapat mengakses berbagai layanan seperti pendaftaran, pelaporan, pembayaran, dan pemantauan kewajiban perpajakan, yang semuanya dalam satu akun digital." # custom description (recommended)
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
