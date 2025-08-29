@@ -21,8 +21,10 @@ copyRight = "Copyright (c) 2020-2024 Thulite"
   enable = true
 
 [outputs]
-  home = ["HTML", "RSS", "searchIndex"]
-  section = ["HTML", "RSS", "SITEMAP"]
+  #home = ["HTML", "RSS", "searchIndex"]
+  #section = ["HTML", "RSS", "SITEMAP"]
+  home = ["HTML"]
+  section = ["HTML"]
 
 [outputFormats.searchIndex]
   mediaType = "application/json"
@@ -40,8 +42,8 @@ copyRight = "Copyright (c) 2020-2024 Thulite"
 #   rel  = "sitemap"
 
 # [sitemap]
-#   changefreq = "monthly"
-# #  filename = "sitemap.xml"
+#   changefreq = "daily"
+#   filename = "sitemap.xml"
 #   priority = 0.5
 
 [caches]
@@ -50,9 +52,9 @@ copyRight = "Copyright (c) 2020-2024 Thulite"
     maxAge = -1 # "30m"
 
 [taxonomies]
-  contributor = "contributors"
-  category = "categories"
-  tag = "tags"
+  #contributor = "contributors"
+  #category = "categories"
+  #tag = "tags"
 
 [permalinks]
   blog = "/blog/:slug/"

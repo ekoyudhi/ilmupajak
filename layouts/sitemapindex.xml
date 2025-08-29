@@ -1,5 +1,5 @@
 {{ printf "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" | safeHTML }}
-<sitemapindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   {{ range . }}
   <sitemap>
     <loc>{{ .SitemapAbsURL }}</loc>
@@ -9,3 +9,4 @@
   </sitemap>
   {{ end }}
 </sitemapindex>
+{{/* Source: https://github.com/gohugoio/hugo/blob/master/tpl/tplimpl/embedded/templates/_default/sitemapindex.xml */}}

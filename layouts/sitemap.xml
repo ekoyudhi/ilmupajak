@@ -21,3 +21,4 @@
     {{- end -}}
   {{ end }}
 </urlset>
+{{/* Source: https://github.com/gohugoio/hugo/blob/master/tpl/tplimpl/embedded/templates/_default/sitemap.xml */}}
