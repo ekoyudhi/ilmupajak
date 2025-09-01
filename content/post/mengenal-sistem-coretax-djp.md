@@ -6,7 +6,7 @@ date: 2025-08-28T10:30:26+07:00
 lastmod: 2025-08-28T10:30:26+07:00
 draft: false
 weight: 50
-categories: []
+categories: ["pajak"]
 tags: ["pajak","coretax","djp"]
 contributors: ["admin"]
 pinned: false

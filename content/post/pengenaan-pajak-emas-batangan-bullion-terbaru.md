@@ -6,7 +6,7 @@ date: 2025-08-28T14:54:44+07:00
 lastmod: 2025-08-28T14:54:44+07:00
 draft: false
 weight: 50
-categories: []
+categories: ["pajak"]
 tags: ["pajak","emas","bullion"]
 contributors: ["admin"]
 pinned: false
