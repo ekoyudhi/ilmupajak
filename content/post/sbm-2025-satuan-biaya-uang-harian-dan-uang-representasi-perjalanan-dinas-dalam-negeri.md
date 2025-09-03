@@ -4,7 +4,7 @@ description: "SBM 2025 Satuan biaya uang harian perjalanan dinas dalam negeri me
 summary: "SBM 2025 Satuan biaya uang harian perjalanan dinas dalam negeri merupakan penggantian biaya keperluan sehari-hari Pejabat Negara/Pegawai Aparatur Sipil Negara/Anggota Polri/TNI/Pihak Lain dalam menjalankan perintah perjalanan dinas di dalam negeri."
 date: 2025-09-03T16:15:53+07:00
 lastmod: 2025-09-03T16:15:53+07:00
-draft: true
+draft: false
 weight: 50
 categories: []
 tags: ["keuangan","sbm"]
