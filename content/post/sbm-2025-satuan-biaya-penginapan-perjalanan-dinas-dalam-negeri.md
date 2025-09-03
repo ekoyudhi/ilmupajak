@@ -4,7 +4,7 @@ description: "SBM 2025 Satuan biaya penginapan perjalanan dinas dalam negeri mer
 summary: "SBM 2025 Satuan biaya penginapan perjalanan dinas dalam negeri merupakan satuan biaya yang digunakan untuk kebutuhan biaya menginap dalam rangka pelaksanaan perjalanan dinas dalam negeri."
 date: 2025-09-03T17:05:43+07:00
 lastmod: 2025-09-03T17:05:43+07:00
-draft: true
+draft: false
 weight: 50
 categories: []
 tags: ["keuangan","sbm"]
