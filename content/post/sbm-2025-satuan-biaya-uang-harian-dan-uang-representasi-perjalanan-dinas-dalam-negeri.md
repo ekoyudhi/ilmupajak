@@ -9,8 +9,8 @@ weight: 50
 categories: []
 tags: ["keuangan","sbm"]
 contributors: ["admin"]
-pinned: false
-homepage: false
+pinned: true
+homepage: true
 seo:
   title: "SBM 2025 Satuan Biaya Uang Harian Dan Uang Representasi Perjalanan Dinas Dalam Negeri" # custom title (optional)
   description: "SBM 2025 Satuan biaya uang harian perjalanan dinas dalam negeri merupakan penggantian biaya keperluan sehari-hari Pejabat Negara/Pegawai Aparatur Sipil Negara/Anggota Polri/TNI/Pihak Lain dalam menjalankan perintah perjalanan dinas di dalam negeri." # custom description (recommended)

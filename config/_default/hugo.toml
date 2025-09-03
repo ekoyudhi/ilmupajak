@@ -23,7 +23,7 @@ copyRight = "Copyright (c) 2020-2024 Thulite"
 [outputs]
   #home = ["HTML", "RSS", "searchIndex"]
   #section = ["HTML", "RSS", "SITEMAP"]
-  home = ["HTML"]
+  home = ["HTML","searchIndex"]
   section = ["HTML"]
 
 [outputFormats.searchIndex]
