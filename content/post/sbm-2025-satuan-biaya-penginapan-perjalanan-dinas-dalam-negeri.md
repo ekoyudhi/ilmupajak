@@ -7,8 +7,8 @@ lastmod: 2025-09-03T17:05:43+07:00
 draft: true
 weight: 50
 categories: []
-tags: []
-contributors: []
+tags: ["keuangan","sbm"]
+contributors: ["admin"]
 pinned: false
 homepage: false
 seo:

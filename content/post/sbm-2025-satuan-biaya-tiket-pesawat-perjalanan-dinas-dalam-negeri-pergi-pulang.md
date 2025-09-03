@@ -4,11 +4,11 @@ description: "SBM 2025 Satuan biaya tiket pesawat perjalanan dinas dalam negeri 
 summary: "SBM 2025 Satuan biaya tiket pesawat perjalanan dinas dalam negeri pergi pulang adalah satuan biaya untuk pembelian tiket pesawat udara pergi pulang (PP) dari bandara keberangkatan suatu kota ke bandara kota tujuan. Satuan biaya tiket termasuk biaya asuransi, tidak termasuk airport tax, bagasi, dan biaya retribusi lainnya. Dalam pelaksanaan anggaran, satuan biaya tiket perjalanan dinas dalam negeri menggunakan metode biaya riil."
 date: 2025-09-03T17:09:37+07:00
 lastmod: 2025-09-03T17:09:37+07:00
-draft: true
+draft: false
 weight: 50
 categories: []
-tags: []
-contributors: []
+tags: ["keuangan","sbm"]
+contributors: ["admin"]
 pinned: false
 homepage: false
 seo:
