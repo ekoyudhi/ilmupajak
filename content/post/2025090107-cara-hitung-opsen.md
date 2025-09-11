@@ -4,7 +4,7 @@ description: "Untuk menghitung opsen maka besaran pokok pajak tersebut dihitung 
 summary: "Besaran pokok pajak tersebut dihitung dengan menerapkan tarif sebesar 66%. Selanjutnya, gubernur menetapkan jumlah opsen PKB-BBNKB yang harus dibayar untuk masing-masing wilayah kabupaten/kota, yang kemudian dicantumkan dalam Surat Ketetapan Pajak Daerah (SKPD). Besaran ini berlaku untuk jangka waktu 12 bulan sejak kendaraan didaftarkan."
 date: 2025-09-08T15:31:44+07:00
 lastmod: 2025-09-08T15:31:44+07:00
-draft: true
+draft: false
 weight: 50
 categories: []
 tags: ["pajak","opsen"]
