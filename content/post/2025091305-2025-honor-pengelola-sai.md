@@ -1,6 +1,6 @@
 ---
-title: "SBM 2025 Honorarium Pengelola Sistem Akuntansi dan Pelaporan Keuangan "
-description: "Honorarium diberikan kepada ASN/TNI/POLRI yang diberi tugas melakukan pengelolaan"
+title: "SBM 2025 Honorarium Pengelola Sistem Akuntansi dan Pelaporan Keuangan"
+description: "Honorarium diberikan kepada ASN/TNI/POLSI yang diberi tugas Sistem Akuntansi Keuangan dan Sistem Informasi Manajemen/Akuntansi Barang Milik Negara"
 summary: "Honorarium diberikan kepada Pegawai Aparatur Sipil Negara/Anggota Polri/TNI yang diberi tugas melakukan pengumpulan data, pencatatan, pengikhtisaran sampai dengan pelaporan posisi keuangan dan operasi keuangan pada kementerian negara/lembaga sesuai dengan unit akuntansi masing-masing, baik yang dikelola secara prosedur manual maupun terkomputerisasi."
 date: 2025-09-13T23:48:29+07:00
 lastmod: 2025-09-13T23:48:29+07:00
@@ -8,12 +8,12 @@ draft: false
 weight: 50
 categories: []
 tags: ["keuangan","sbm"]
-contributors: ["admin]
+contributors: ["admin"]
 pinned: false
 homepage: false
 seo:
-  title: "SBM 2025 Honorarium Pengelola Sistem Akuntansi dan Pelaporan Keuangan " # custom title (optional)
-  description: "Honorarium diberikan kepada ASN/TNI/POLRI yang diberi tugas melakukan pengelolaan" # custom description (recommended)
+  title: "SBM 2025 Honorarium Pengelola Sistem Akuntansi dan Pelaporan Keuangan" # custom title (optional)
+  description: "Honorarium diberikan kepada ASN/TNI/POLSI yang diberi tugas Sistem Akuntansi Keuangan dan Sistem Informasi Manajemen/Akuntansi Barang Milik Negara" # custom description (recommended)
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
