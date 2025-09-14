@@ -37,3 +37,24 @@ Ketentuan mengenai jumlah pengelola SAI adalah sebagai berikut:
 |     | a. Pengarah                                                                                  | OB     | Rp420.000   |
 |     | b. Penanggung Jawab                                                                          | OB     | Rp360.000   |
 |     | c. Koordinator                                                                               | OB     | Rp300.000   |
+
+| NO.  | URAIAN                                                                                                                                              | SATUAN                  | BESARAN     |
+| ---- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ----------- |
+| (1)  | (2)                                                                                                                                                 | (3)                     | (4)         |
+|      | d. Ketua/Wakil Ketua                                                                                                                                | OB                      | Rp240.000   |
+|      | e. Anggota/Petugas                                                                                                                                  | OB                      | Rp210.000   |
+| 5.2  | Unit Akuntansi Pembantu Pengguna Anggaran/Barang Tingkat Eselon I (UAPPA-EI/UAPPB-EI)                                                               |                         |             |
+|      | a. Penanggung Jawab                                                                                                                                 | OB                      | Rp270.000   |
+|      | b. Koordinator                                                                                                                                      | OB                      | Rp240.000   |
+|      | c. Ketua/Wakil Ketua                                                                                                                                | OB                      | Rp210.000   |
+|      | d. Anggota/Petugas                                                                                                                                  | OB                      | Rp200.000   |
+| 5.3  | Unit Akuntansi Pembantu Pengguna Anggaran/Barang Tingkat Wilayah (UAPPA-W/UAPPB-W), UAPPA-W/UAPPB-W Dekonsentrasi, UAPPA-W/UAPPB-W Tugas Pembantuan |                         |             |
+|      | a. Penanggung Jawab                                                                                                                                 | OB                      | Rp200.000   |
+|      | b. Koordinator                                                                                                                                      | OB                      | Rp200.000   |
+|      | c. Ketua/Wakil Ketua                                                                                                                                | OB                      | Rp150.000   |
+|      | d. Anggota/Petugas                                                                                                                                  | OB                      | Rp150.000   |
+| 5.4  | Unit Akuntansi Kuasa Pengguna Anggaran/Barang (UAKPA/UAKPB), UAKPA/UAKPB Dekonsentrasi, UAKPA/UAKPB Tugas Pembantuan.                               |                         |             |
+|      | a. Penanggung Jawab                                                                                                                                 | OB                      | Rp200.000   |
+|      | b. Koordinator                                                                                                                                      | OB                      | Rp200.000   |
+|      | c. Ketua/Wakil Ketua                                                                                                                                | OB                      | Rp150.000   |
+|      | d. Anggota/Petugas                                                                                                                                  | OB                      | Rp150.000   |
